@@ -7,4 +7,8 @@ HTML5 CSS3:<br>
   <a href="https://vismartins.github.io/html-css/Exercicios/ex026/mq004/index.html" target="_blank">Clique aqui para acessar um projeto de Media Queries!</a><br>
  <a href="https://vismartins.github.io/projeto-login/" target="_blank">Clique aqui para acessar meu projeto com tela de Login!</a><br>
  Javascript:<br>
- < href="https://vismartins.github.io/Javascript/ex017/index.html" target="_blank">Clique aqui para o projeto Analisador de Números!</a><br>
+ <a href="https://vismartins.github.io/Javascript/ex017/index.html" target="_blank">Clique aqui para o projeto Analisador de Números!</a><br>
+ <a href="https://vismartins.github.io/Javascript/ex016/index.html">Clique aqui para o projeto Contador de Números.</a><br>
+ <a href="https://vismartins.github.io/Javascript/aula16/index.html">Clique aqui para o projeto Tabuadas em Js</a><br>
+ <a href="https://vismartins.github.io/Javascript/aula15/index.html">Clique aqui para o projeto Verificador de Idade!</a><br>
+ <a href="https://vismartins.github.io/Javascript/aula14/index.html">Clique aqui para o projeto Hora do Dia!</a><br>
