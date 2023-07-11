@@ -1,4 +1,4 @@
-# Reposit-rio-Projetos
+# Reposit-Projetos
 Projetos do meu aprendizado em linguagens de programação<br>
 HTML5 CSS3:<br>
  <a href="https://vismartins.github.io/projeto-android/" target="_blank">Clique aqui para acessar meu projeto sobre Android!</a><br>
