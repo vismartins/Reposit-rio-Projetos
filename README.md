@@ -6,7 +6,7 @@ HTML5 CSS3:<br>
  <a href="https://vismartins.github.io/Tabelas/" target="_blank">Clique aqui para acessar meu projeto de Tabelas!</a><br>
   <a href="https://vismartins.github.io/html-css/Exercicios/ex026/mq004/index.html" target="_blank">Clique aqui para acessar um projeto de Media Queries!</a><br>
  <a href="https://vismartins.github.io/projeto-login/" target="_blank">Clique aqui para acessar meu projeto com tela de Login!</a><br>
-  <a href="https://vismartins.github.io/FastFood/)">Clique aqui para o projeto site da Pizzaria!</a><br>
+  <a href="https://vismartins.github.io/FastFood/">Clique aqui para o projeto site da Pizzaria!</a><br>
  Javascript:<br>
  <a href="https://vismartins.github.io/Javascript/ex017/index.html" target="_blank">Clique aqui para o projeto Analisador de Números!</a><br>
  <a href="https://vismartins.github.io/Javascript/ex016/index.html">Clique aqui para o projeto Contador de Números.</a><br>
